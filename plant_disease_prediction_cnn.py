@@ -1,8 +1,10 @@
+'''THIS CODE IS A PART OF PROJECT AUTOMATIC-PESTICIDE-APPLICATION-SYSTEM-USING-IOT-AND-CNN
+   MADE BY AAKASH KUMAR SINGH'''
 
 #Seeding for reproducibility**
 """
 
-# Set seeds for reproducibility
+#Set seeds for reproducibility
 import random
 random.seed(0)
 
